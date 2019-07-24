@@ -1,0 +1,9 @@
+[package]
+name = "hex_to_bs58"
+version = "0.1.0"
+authors = ["Stephen Akridge <sakridge@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+hex = "0.3.2"
+bs58 = "0.2.2"
